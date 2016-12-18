@@ -84,7 +84,7 @@ More information is avaliable here:
 
 You can choose the CI repo with the `$ci_package_repo` parameter.
 
-`$ci_package_repo` has to match '5.4', '5.5', '5.6' or 'master' (RC for 5.7) as
+`$ci_package_repo` has to match '5.4', '5.5', '5.6', '5.7' or 'master' (RC for next release) as
 these are the current branches being built in the Collectd CI.
 
 ## Configurable Plugins
